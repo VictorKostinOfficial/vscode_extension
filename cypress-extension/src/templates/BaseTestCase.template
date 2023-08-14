@@ -1,0 +1,14 @@
+import '%pathFromRootsupport/login_logout';
+
+describe('%filename', () => {
+    it('%filename', () => {
+        // Вход
+        cy.login();
+
+        // Тест Кейс
+        // TODO:
+
+        // Выход
+        cy.logout();
+    });
+});
